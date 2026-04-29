@@ -5,7 +5,7 @@
 
 **B.Tech Computer Science (AI & ML)** @ Presidency University, Bangalore · CGPA: 8.03/10 · Graduating 2026
 
-I build end-to-end ML systems across domains — from deployed pricing engines to medical imaging research. Currently applying for graduate programmes in Computer Science / AI in Germany.
+I build end-to-end ML systems across domains — from deployed pricing engines to medical imaging research.
 
 ---
 
