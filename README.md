@@ -15,17 +15,6 @@ I build end-to-end ML systems across domains — from deployed pricing engines t
 
 ---
 
-###  Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| [ Airline Dynamic Pricing Engine](https://github.com/Athish-05/airline-dynamic-pricing) | XGBoost · LSTM · Flask · PostgreSQL | Ensemble model R² ≈ 0.99 · Live deployed API · Full web app with auth |
-| [ OCR – Text Localisation via CCA](https://github.com/Athish-05/ocr-text-localisation) | OpenCV · EasyOCR · Python | Hybrid CCA + deep learning pipeline for licence plate recognition |
-| [ Multi-Agent Cybersecurity System](https://github.com/Athish-05/multi-agent-cybersecurity) | TensorFlow · Flask · AWS | Autonomous threat detection & incident response agents |
-| [ Android Malware Detection](https://github.com/Athish-05/android-malware-detection) | Python · Pandas · Power BI | EDA + interactive dashboard for malware pattern analysis |
-
----
-
 ###  Tech Stack
 
 <div align="left">
@@ -52,14 +41,6 @@ I build end-to-end ML systems across domains — from deployed pricing engines t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" title="VS Code" />
 </div>
 
----
-
-###  GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athish-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athish-05&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
 
 ---
 
